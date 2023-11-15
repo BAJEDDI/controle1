@@ -47,5 +47,8 @@ Use Postman to test the API. Import the provided collection (`StockManagement.po
 5*
 ![image](https://github.com/BAJEDDI/controle1/assets/147507670/f332dcc6-4b11-4f52-b1cf-99b8a23538a2)
 
+6*
+![image](https://github.com/BAJEDDI/controle1/assets/147507670/6580f097-aeb7-49a3-b222-482cdf7ceb0d)
+
 ## Author 
 BAJEDDI
