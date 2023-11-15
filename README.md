@@ -24,7 +24,7 @@ Manage your product inventory effortlessly with this SpringBoot-based RESTful AP
 
 ## API Documentation
 
-Access API documentation using Swagger UI at [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) after running the application.
+Access API documentation using Swagger UI at [http://localhost:8088/swagger-ui/index.html#/](http://localhost:8088/swagger-ui/index.html#/) after running the application.
 
 ## Testing with Postman
 
