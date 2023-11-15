@@ -36,18 +36,20 @@ Use Postman to test the API. Import the provided collection (`StockManagement.po
 2. Navigate to the project directory.
 3. Run the application (`./mvnw spring-boot:run` or use your IDE).
 ##screenshots
-1*
+## 1*
 ![image](https://github.com/BAJEDDI/controle1/assets/147507670/735862f7-78ad-4711-a554-48c6a781f8c1)
-2*
+
+## 2*
 ![image](https://github.com/BAJEDDI/controle1/assets/147507670/d47fc3db-5e51-460b-ac9f-0349c455588f)
-3*
+## 3*
 ![image](https://github.com/BAJEDDI/controle1/assets/147507670/5567003d-d19f-4408-b7bb-74a94983392f)
-4*
+## 4*
 ![image](https://github.com/BAJEDDI/controle1/assets/147507670/244f5d9d-5940-4fa7-a3f7-81e1e13d0e62)
-5*
+
+## 5*
 ![image](https://github.com/BAJEDDI/controle1/assets/147507670/f332dcc6-4b11-4f52-b1cf-99b8a23538a2)
 
-6*
+## 6*
 ![image](https://github.com/BAJEDDI/controle1/assets/147507670/6580f097-aeb7-49a3-b222-482cdf7ceb0d)
 
 ## Author 
