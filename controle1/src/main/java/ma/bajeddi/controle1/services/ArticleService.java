@@ -1,5 +1,6 @@
 package ma.bajeddi.controle1.services;
 
+import java.util.Date;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -44,5 +45,7 @@ public class ArticleService implements IDao<Article> {
 	public List<Article> findAll() {
 		return repository.findAll();
 	}
-
+	public List<Article> findByDateProductionBetween(Date dateDebut, Date dateFin){
+		return repository.findByDateProductionBetween(dateDebut, dateFin);
+	}
 }
